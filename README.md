@@ -6,8 +6,10 @@ KNN,SVC,Decision Tree, and Random Forest
 Python
 Pandas
 Scikit-Learn
-#Results
+# Results
 KNN=96% accuracy
 SVC=96% accufraccy
-Decision tree= 100% accuracy
-Random forest=100% accuracy
+Decision Tree=100% accuracy
+Random Forest=100% accuracy
+# Conclusion
+Ranedom Forest was selected as the final model because it is more reliable than Decision Tree.
